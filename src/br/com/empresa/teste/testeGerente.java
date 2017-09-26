@@ -1,6 +1,6 @@
-package br.com.coffe;
+package br.com.empresa.teste;
 
-import br.com.pudim.Gerente;
+import br.com.empresa.Gerente;
 
 public class testeGerente {
 	public static void main(String[] args) {

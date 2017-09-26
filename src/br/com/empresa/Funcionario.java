@@ -1,4 +1,4 @@
-package br.com.pudim;
+package br.com.empresa;
 
 public class Funcionario {
 
