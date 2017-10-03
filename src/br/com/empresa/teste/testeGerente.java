@@ -12,6 +12,6 @@ public class testeGerente {
 	
 	@Test
 	public void Autenticação(){
-		Gerente gerente = new Gerente("João", "" ,2000, 444456, 4868);
+		Gerente gerente = new Gerente("João", "", 2000, 444456, 4868);
 	}
 }
